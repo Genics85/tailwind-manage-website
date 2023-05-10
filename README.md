@@ -4,6 +4,6 @@
 ## tailwindcss including the config down to responsiveness
 
 <button>
-<a href="https://tailwind-manage-website.vercel.app/">##Open Here</a>
+<a href="https://tailwind-manage-website.vercel.app/" style="font-size:30px;color:white;font-weight:bold;">Open Here</a>
 </button>
 
