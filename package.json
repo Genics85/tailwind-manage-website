@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+
     "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
     "deploy":"npx tailwindcss -i ./src/input.css -o ./src/output.css"
+
   },
   "keywords": [],
   "author": "",
